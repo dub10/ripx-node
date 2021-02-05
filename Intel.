@@ -1,0 +1,13 @@
+# Intel. 
+Ripplex cryptocurreny blockchain base information 
+web links
+
+https://ripplex.io/
+https://testnet.ripplex.io
+
+# API 
+Connetion to api testnet ripple cryptocurreny is 
+
+- rest : https://ripplex.io/portal/ilp/hermes/
+
+-gRPC : rxprod.grpcng.wallet.ripplex.io:443
